@@ -1,0 +1,2 @@
+Note: this motor curve model does not factor the differential equation for acceleratin into its calculations. This aims to produce numbers at a moment, and not a graph.
+https://www.desmos.com/calculator/jnftyqtww2
